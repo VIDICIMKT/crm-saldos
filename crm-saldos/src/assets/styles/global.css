@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f5f7fa;
+}
+
+.container {
+  padding: 20px;
+}
+
+.success-snackbar {
+  background-color: #4caf50 !important;
+}
+
+.error-snackbar {
+  background-color: #f44336 !important;
+}
